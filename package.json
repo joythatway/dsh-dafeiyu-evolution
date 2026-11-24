@@ -1,0 +1,69 @@
+{
+  "name": "@joythatway/dsh-dafeiyu-evolution",
+  "version": "0.1.0",
+  "description": "大肥鱼进化器：把输入框的模型与思考强度控件换成一条从露卡、海口鱼、提塔利克鱼进化到大肥鲸的滑轨。",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "skin",
+    "model-selector",
+    "reasoning-effort",
+    "big-fat-fish",
+    "dsh-skin",
+    "dsh-theme",
+    "whale",
+    "evolution",
+    "luca",
+    "tiktaalik",
+    "haikouichthys"
+  ],
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./package.json": "./package.json",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "docs",
+    "icon.svg",
+    "README.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-conversation",
+        "@deepseek-ai/dsh-client-ui-model-selection"
+      ]
+    }
+  },
+  "license": "MIT-0",
+  "author": "joythatway",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joythatway/dsh-dafeiyu-evolution.git"
+  },
+  "homepage": "https://github.com/joythatway/dsh-dafeiyu-evolution#readme",
+  "bugs": {
+    "url": "https://github.com/joythatway/dsh-dafeiyu-evolution/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
