@@ -1,1 +1,1 @@
-![Four stages on an evolution rail: LUCA, Haikouichthys, Tiktaalik, and a big fat whale](preview.svg)
+![The big fat fish evolution panel with the evolution rail and model chips](panel.png)

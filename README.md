@@ -4,6 +4,10 @@
 
 npm: [`@joythatway/dsh-dafeiyu-evolution`](https://www.npmjs.com/package/@joythatway/dsh-dafeiyu-evolution) · GitHub: [`joythatway/dsh-dafeiyu-evolution`](https://github.com/joythatway/dsh-dafeiyu-evolution)
 
+![大肥鱼进化器面板](https://raw.githubusercontent.com/joythatway/dsh-dafeiyu-evolution/main/docs/panel.png)
+
+![输入框里的鲸形胶囊](https://raw.githubusercontent.com/joythatway/dsh-dafeiyu-evolution/main/docs/trigger.png)
+
 | 档位 | 阶段 | 介绍 |
 | --- | --- | --- |
 | `off` | 露卡（LUCA） | 现存所有生物的共同祖先，一个还没决定要不要长脑子的细胞。它先学会了复制自己，剩下的交给后代。 |
