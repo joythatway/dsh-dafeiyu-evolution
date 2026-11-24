@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Big fat fish evolution",
-    "description": "Replaces the composer's model and thinking-level control with one evolving whale: off is LUCA, low is Haikouichthys, high is Tiktaalik, and max is today's general-purpose big fat fish (a blue whale). Click the whale capsule in the composer to open the panel, drag the evolution rail to change thinking level, or pick another species (model). The choice is still written back to the current session. All artwork is original SVG.",
+    "title": "Dafeiyu evolution",
+    "description": "Dafeiyu (big fat fish) evolution replaces the composer's model and thinking-level control with one evolving whale: off is LUCA, low is Haikouichthys, high is Tiktaalik, and max is today's general-purpose big fat fish (a blue whale). Click the whale capsule in the composer to open the panel, drag the evolution rail to change thinking level, or pick another species (model). The choice is still written back to the current session. All artwork is original SVG.",
     "detail": "docs/DETAIL.md"
   }
 }

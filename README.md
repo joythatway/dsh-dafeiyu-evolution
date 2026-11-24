@@ -1,4 +1,4 @@
-# 大肥鱼进化器 · Big fat fish evolution
+# 大肥鱼进化器 · Dafeiyu evolution
 
 把输入框里的「模型 + 思考强度」控件，换成一条会进化的鲸。
 
@@ -45,6 +45,6 @@ dsh plugin --profile <profile> add @joythatway/dsh-dafeiyu-evolution
 
 ## English
 
-Replaces the composer's model and thinking-level control with one evolving whale. `off` is LUCA, `low` is Haikouichthys, `high` is Tiktaalik, and `max` is the deep sea's own whale. Click the capsule, tap a level or drag the rail dot, and pick another species (model) when needed. Selections are written back to the current session; the `/model` command stays available. All fish, whale, icon and preview artwork is original SVG drawn for this plugin; no third-party images are used.
+Dafeiyu (big fat fish) evolution replaces the composer's model and thinking-level control with one evolving whale. `off` is LUCA, `low` is Haikouichthys, `high` is Tiktaalik, and `max` is the deep sea's own whale. Click the capsule, tap a level or drag the rail dot, and pick another species (model) when needed. Selections are written back to the current session; the `/model` command stays available. All fish, whale, icon and preview artwork is original SVG drawn for this plugin; no third-party images are used.
 
 No build step. Install the npm package or the directory as a local bundle and refresh the page.
